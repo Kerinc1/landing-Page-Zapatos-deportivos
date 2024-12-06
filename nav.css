@@ -1,0 +1,16 @@
+.nav-bar{
+    background-color: white;
+    padding: 2%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title-nav,.init-nav,.products,.about-us{
+    margin-right: 5%;
+}
+
+.title-nav{
+    color: rgb(37, 218, 231);
+    font-weight: 700;
+}
